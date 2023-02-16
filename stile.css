@@ -1,0 +1,23 @@
+/* .contoner{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 1110px;
+    width: 100%;
+}
+.box{
+    background-color: aqua;
+    width: 500px;
+    height: 80  0px   ;
+}
+.box::before{
+    content: "";
+    margin-top: 79px;
+    margin-left: 100%;
+    display: inline-block;
+    border: 200px solid rgb(234, 48, 27);
+    border-radius: 50%;
+    border-right: transparent;
+    border-bottom: 50px solid transparent;
+
+} */
